@@ -1,6 +1,7 @@
 # Discord Startup Notifier
 
 lightweight program that sends a notif to a discord webhook whenever laptop/pc is opened. (lowk made this last time when my laptop was stolen)
+did it in python instead of C++ is cause of simplicity 
 
 ##  Features
 . It runs immediately at startup, it will NOT be visible on taskmanager but it will be visible on task schedular to avoid the black cmd prompt that pops up
