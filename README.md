@@ -2,6 +2,7 @@
 
 lightweight program that sends a notif to a discord webhook whenever laptop/pc is opened. (lowk made this last time when my laptop was stolen)
 did it in python instead of C++ is cause of simplicity 
+some laptops may take longer to connect to the internet on startup so feel free to tweak the settings 
 
 note: do NOT move or delete the dist folder after running the setup script or windows task schedular will no longer be able to find the executable
 
